@@ -30,8 +30,11 @@ Subscription tenure
 
 📈 𝑺𝒂𝒍𝒆𝒔 𝑻𝒓𝒆𝒏𝒅 𝑨𝒏𝒂𝒍𝒚𝒔𝒊𝒔
 Monthly, quarterly, and yearly sales performance tracking
+
 Identification of top-performing products/services
+
 Churn vs Revenue impact analysis
+
 Time-series sales trends visualization
 
 𝑻𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒚 𝑺𝒕𝒂𝒄𝒌
